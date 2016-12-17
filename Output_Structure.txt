@@ -1,0 +1,8 @@
+In every project what we are interested in are as follows:
+
+-> Total time of the project
+-> Location
+-> Unique ID
+-> Pledge (possibly with multiple timestamps for recurring projects)
+-> Backer_count (possibly with multiple timestamps for recurring projects)
+-> category
