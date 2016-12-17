@@ -1,0 +1,9 @@
+So the gist of the ideas are as follows:
+
+--> Histogram of pledges to the the number of projects in that pledge range.
+--> Histogram of time duration of projects
+--> Evolution of a project w.r.t. time for a recurring project
+--> Evolution of category over time (Overall/ Geographically distributed)
+--> Geographic distribution of projects (overall/per category)
+--> Geographic distribution of pledges/projects (overall/per category)
+

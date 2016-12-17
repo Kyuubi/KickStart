@@ -4,6 +4,11 @@ import ijson
 import json
 
 Cat_dict = {}
+Cur_types = []
+Cur_conv = support.read_json_from_file('Currency_Conversion.json')
+def currencyconvert(Ctype, amount):
+	factor = Cur_conv[Ctype]
+	return amount*factor
 
 def json_load(filename):
 	with open(filename, 'r') as fp:
@@ -18,6 +23,10 @@ def json_load(filename):
 					pledge = float(value)
 				else:
 					print "Last value still not flushed out..."
+			if prefix.endswith('.currency'):
+				if value not in Cur_types:
+					Cur_types.append(value)
+					print "Currency = ", value
 
 			if prefix.endswith('.category.name'):
 				# flag_set=0
