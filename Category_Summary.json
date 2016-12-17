@@ -1,0 +1,697 @@
+{
+    "Web": {
+        "Count": 20, 
+        "TotalPledges": 257509.5, 
+        "AveragePledge": 12875.475
+    }, 
+    "Jazz": {
+        "Count": 1093, 
+        "TotalPledges": 4486374.489999997, 
+        "AveragePledge": 4104.642717291854
+    }, 
+    "Performance Art": {
+        "Count": 1304, 
+        "TotalPledges": 2896140.929999999, 
+        "AveragePledge": 2220.966970858895
+    }, 
+    "3D Printing": {
+        "Count": 50, 
+        "TotalPledges": 6733467.45, 
+        "AveragePledge": 134669.34899999996
+    }, 
+    "Poetry": {
+        "Count": 692, 
+        "TotalPledges": 765517.8099999999, 
+        "AveragePledge": 1106.23960982659
+    }, 
+    "Comic Books": {
+        "Count": 19, 
+        "TotalPledges": 263486.85000000003, 
+        "AveragePledge": 13867.728947368423
+    }, 
+    "Comedy": {
+        "Count": 2, 
+        "TotalPledges": 113947.68999999999, 
+        "AveragePledge": 56973.844999999994
+    }, 
+    "Movie Theaters": {
+        "Count": 7, 
+        "TotalPledges": 644561.99, 
+        "AveragePledge": 92080.28428571428
+    }, 
+    "Fabrication Tools": {
+        "Count": 10, 
+        "TotalPledges": 279007.72, 
+        "AveragePledge": 27900.772000000004
+    }, 
+    "Indie Rock": {
+        "Count": 4212, 
+        "TotalPledges": 15438043.229999978, 
+        "AveragePledge": 3665.252428774915
+    }, 
+    "Space Exploration": {
+        "Count": 32, 
+        "TotalPledges": 758754.2300000001, 
+        "AveragePledge": 23711.069687499996
+    }, 
+    "Painting": {
+        "Count": 1396, 
+        "TotalPledges": 2672217.2300000004, 
+        "AveragePledge": 1914.195723495704
+    }, 
+    "Photography": {
+        "Count": 4250, 
+        "TotalPledges": 11283249.209999986, 
+        "AveragePledge": 2654.8821670588236
+    }, 
+    "Robots": {
+        "Count": 47, 
+        "TotalPledges": 2677937.1, 
+        "AveragePledge": 56977.38510638299
+    }, 
+    "Science Fiction": {
+        "Count": 8, 
+        "TotalPledges": 157231.38999999998, 
+        "AveragePledge": 19653.923749999998
+    }, 
+    "Residencies": {
+        "Count": 1, 
+        "TotalPledges": 3262.78, 
+        "AveragePledge": 3262.78
+    }, 
+    "Sound": {
+        "Count": 23, 
+        "TotalPledges": 1917413.8299999998, 
+        "AveragePledge": 83365.81869565217
+    }, 
+    "Webcomics": {
+        "Count": 11, 
+        "TotalPledges": 565300.74, 
+        "AveragePledge": 51390.976363636364
+    }, 
+    "Kids": {
+        "Count": 9, 
+        "TotalPledges": 89133.0, 
+        "AveragePledge": 9903.666666666666
+    }, 
+    "Film & Video": {
+        "Count": 7019, 
+        "TotalPledges": 27377220.090000022, 
+        "AveragePledge": 3900.4445205869797
+    }, 
+    "Performances": {
+        "Count": 7, 
+        "TotalPledges": 39297.990000000005, 
+        "AveragePledge": 5613.998571428572
+    }, 
+    "Punk": {
+        "Count": 13, 
+        "TotalPledges": 37054.630000000005, 
+        "AveragePledge": 2850.356153846154
+    }, 
+    "Product Design": {
+        "Count": 5446, 
+        "TotalPledges": 137979626.76000026, 
+        "AveragePledge": 25335.957906720592
+    }, 
+    "Children's Book": {
+        "Count": 2553, 
+        "TotalPledges": 7403168.95, 
+        "AveragePledge": 2899.7919898159075
+    }, 
+    "Crafts": {
+        "Count": 1192, 
+        "TotalPledges": 3109360.2300000004, 
+        "AveragePledge": 2608.523682885911
+    }, 
+    "Thrillers": {
+        "Count": 4, 
+        "TotalPledges": 347724.08999999997, 
+        "AveragePledge": 86931.02249999999
+    }, 
+    "Experimental": {
+        "Count": 11, 
+        "TotalPledges": 55184.0, 
+        "AveragePledge": 5016.727272727273
+    }, 
+    "Restaurants": {
+        "Count": 8, 
+        "TotalPledges": 527014.37, 
+        "AveragePledge": 65876.79625
+    }, 
+    "Fashion": {
+        "Count": 5711, 
+        "TotalPledges": 30305551.12000001, 
+        "AveragePledge": 5306.522696550508
+    }, 
+    "Art": {
+        "Count": 3086, 
+        "TotalPledges": 10896356.840000002, 
+        "AveragePledge": 3530.8998185353294
+    }, 
+    "DIY Electronics": {
+        "Count": 57, 
+        "TotalPledges": 6236287.079999999, 
+        "AveragePledge": 109408.54526315788
+    }, 
+    "Bacon": {
+        "Count": 10, 
+        "TotalPledges": 97341.54000000001, 
+        "AveragePledge": 9734.154
+    }, 
+    "Accessories": {
+        "Count": 22, 
+        "TotalPledges": 964910.52, 
+        "AveragePledge": 43859.56909090909
+    }, 
+    "Mixed Media": {
+        "Count": 1324, 
+        "TotalPledges": 5658923.15, 
+        "AveragePledge": 4274.11114048338
+    }, 
+    "Plays": {
+        "Count": 21, 
+        "TotalPledges": 102151.54000000001, 
+        "AveragePledge": 4864.359047619048
+    }, 
+    "Jewelry": {
+        "Count": 13, 
+        "TotalPledges": 20795.989999999998, 
+        "AveragePledge": 1599.6915384615384
+    }, 
+    "Conceptual Art": {
+        "Count": 540, 
+        "TotalPledges": 1098916.2500000002, 
+        "AveragePledge": 2035.0300925925926
+    }, 
+    "Apps": {
+        "Count": 20, 
+        "TotalPledges": 205470.71999999997, 
+        "AveragePledge": 10273.536
+    }, 
+    "Anthologies": {
+        "Count": 21, 
+        "TotalPledges": 430024.93, 
+        "AveragePledge": 20477.377619047616
+    }, 
+    "Art Book": {
+        "Count": 1126, 
+        "TotalPledges": 8013729.960000002, 
+        "AveragePledge": 7116.9893072824125
+    }, 
+    "Latin": {
+        "Count": 7, 
+        "TotalPledges": 51060.0, 
+        "AveragePledge": 7294.285714285715
+    }, 
+    "Installations": {
+        "Count": 6, 
+        "TotalPledges": 129418.0, 
+        "AveragePledge": 21569.666666666668
+    }, 
+    "Horror": {
+        "Count": 10, 
+        "TotalPledges": 514865.0, 
+        "AveragePledge": 51486.5
+    }, 
+    "Translations": {
+        "Count": 13, 
+        "TotalPledges": 102492.74, 
+        "AveragePledge": 7884.056923076923
+    }, 
+    "R&B": {
+        "Count": 12, 
+        "TotalPledges": 75303.0, 
+        "AveragePledge": 6275.25
+    }, 
+    "Public Art": {
+        "Count": 1677, 
+        "TotalPledges": 7070842.870000007, 
+        "AveragePledge": 4216.364263565893
+    }, 
+    "Ready-to-wear": {
+        "Count": 8, 
+        "TotalPledges": 592381.01, 
+        "AveragePledge": 74047.62625
+    }, 
+    "Theater": {
+        "Count": 5823, 
+        "TotalPledges": 22462662.420000017, 
+        "AveragePledge": 3857.575548686245
+    }, 
+    "Places": {
+        "Count": 9, 
+        "TotalPledges": 49419.0, 
+        "AveragePledge": 5491.0
+    }, 
+    "Comics": {
+        "Count": 3854, 
+        "TotalPledges": 25268249.629999984, 
+        "AveragePledge": 6556.369909185237
+    }, 
+    "Metal": {
+        "Count": 140, 
+        "TotalPledges": 562619.9500000001, 
+        "AveragePledge": 4018.7139285714297
+    }, 
+    "Webseries": {
+        "Count": 3402, 
+        "TotalPledges": 14190060.969999988, 
+        "AveragePledge": 4171.093759553189
+    }, 
+    "Typography": {
+        "Count": 23, 
+        "TotalPledges": 160142.56, 
+        "AveragePledge": 6962.72
+    }, 
+    "Drama": {
+        "Count": 8, 
+        "TotalPledges": 201394.38, 
+        "AveragePledge": 25174.2975
+    }, 
+    "Architecture": {
+        "Count": 19, 
+        "TotalPledges": 95502.0, 
+        "AveragePledge": 5026.421052631579
+    }, 
+    "Rock": {
+        "Count": 4512, 
+        "TotalPledges": 15199640.259999974, 
+        "AveragePledge": 3368.7145966312064
+    }, 
+    "Civic Design": {
+        "Count": 15, 
+        "TotalPledges": 519414.75, 
+        "AveragePledge": 34627.649999999994
+    }, 
+    "People": {
+        "Count": 5, 
+        "TotalPledges": 71556.0, 
+        "AveragePledge": 14311.2
+    }, 
+    "Dance": {
+        "Count": 1823, 
+        "TotalPledges": 5906559.6, 
+        "AveragePledge": 3240.021722435549
+    }, 
+    "Mobile Games": {
+        "Count": 11, 
+        "TotalPledges": 53727.03, 
+        "AveragePledge": 4884.2754545454545
+    }, 
+    "Literary Journals": {
+        "Count": 13, 
+        "TotalPledges": 51302.0, 
+        "AveragePledge": 3946.307692307693
+    }, 
+    "Food Trucks": {
+        "Count": 11, 
+        "TotalPledges": 142187.44, 
+        "AveragePledge": 12926.130909090909
+    }, 
+    "Farmer's Markets": {
+        "Count": 6, 
+        "TotalPledges": 23393.0, 
+        "AveragePledge": 3898.8333333333335
+    }, 
+    "Farms": {
+        "Count": 10, 
+        "TotalPledges": 302729.0, 
+        "AveragePledge": 30272.9
+    }, 
+    "Design": {
+        "Count": 1184, 
+        "TotalPledges": 14947013.1, 
+        "AveragePledge": 12624.166469594617
+    }, 
+    "Camera Equipment": {
+        "Count": 22, 
+        "TotalPledges": 1786255.28, 
+        "AveragePledge": 81193.42181818181
+    }, 
+    "Technology": {
+        "Count": 1718, 
+        "TotalPledges": 39716789.239999995, 
+        "AveragePledge": 23118.037974388833
+    }, 
+    "Drinks": {
+        "Count": 9, 
+        "TotalPledges": 164037.69, 
+        "AveragePledge": 18226.41
+    }, 
+    "Young Adult": {
+        "Count": 4, 
+        "TotalPledges": 5701.5, 
+        "AveragePledge": 1425.375
+    }, 
+    "Pet Fashion": {
+        "Count": 5, 
+        "TotalPledges": 39638.0, 
+        "AveragePledge": 7927.6
+    }, 
+    "Fine Art": {
+        "Count": 11, 
+        "TotalPledges": 92043.0, 
+        "AveragePledge": 8367.545454545454
+    }, 
+    "Fiction": {
+        "Count": 4510, 
+        "TotalPledges": 6404938.050000002, 
+        "AveragePledge": 1420.163647450112
+    }, 
+    "Small Batch": {
+        "Count": 7, 
+        "TotalPledges": 60074.2, 
+        "AveragePledge": 8582.028571428571
+    }, 
+    "Music": {
+        "Count": 9110, 
+        "TotalPledges": 40814415.03999981, 
+        "AveragePledge": 4480.177282107551
+    }, 
+    "Illustration": {
+        "Count": 739, 
+        "TotalPledges": 2453557.0700000008, 
+        "AveragePledge": 3320.104289580517
+    }, 
+    "Digital Art": {
+        "Count": 434, 
+        "TotalPledges": 810053.17, 
+        "AveragePledge": 1866.481958525347
+    }, 
+    "Events": {
+        "Count": 13, 
+        "TotalPledges": 236380.53000000003, 
+        "AveragePledge": 18183.117692307693
+    }, 
+    "Puzzles": {
+        "Count": 58, 
+        "TotalPledges": 251166.11, 
+        "AveragePledge": 4330.450172413791
+    }, 
+    "Nature": {
+        "Count": 10, 
+        "TotalPledges": 86055.5, 
+        "AveragePledge": 8605.55
+    }, 
+    "Zines": {
+        "Count": 3, 
+        "TotalPledges": 8446.5, 
+        "AveragePledge": 2815.5
+    }, 
+    "Calendars": {
+        "Count": 7, 
+        "TotalPledges": 66252.01, 
+        "AveragePledge": 9464.572857142857
+    }, 
+    "Vegan": {
+        "Count": 9, 
+        "TotalPledges": 193747.86, 
+        "AveragePledge": 21527.539999999997
+    }, 
+    "Photobooks": {
+        "Count": 15, 
+        "TotalPledges": 198729.43, 
+        "AveragePledge": 13248.628666666666
+    }, 
+    "Immersive": {
+        "Count": 10, 
+        "TotalPledges": 90794.09, 
+        "AveragePledge": 9079.409
+    }, 
+    "Country & Folk": {
+        "Count": 2512, 
+        "TotalPledges": 10414551.479999982, 
+        "AveragePledge": 4145.920175159226
+    }, 
+    "Graphic Novels": {
+        "Count": 16, 
+        "TotalPledges": 281477.71, 
+        "AveragePledge": 17592.356875000005
+    }, 
+    "Electronic Music": {
+        "Count": 921, 
+        "TotalPledges": 2429453.8500000006, 
+        "AveragePledge": 2637.843485342018
+    }, 
+    "Childrenswear": {
+        "Count": 7, 
+        "TotalPledges": 66607.5, 
+        "AveragePledge": 9515.357142857143
+    }, 
+    "Animals": {
+        "Count": 3, 
+        "TotalPledges": 61692.57, 
+        "AveragePledge": 20564.19
+    }, 
+    "Graphic Design": {
+        "Count": 729, 
+        "TotalPledges": 3616785.5699999994, 
+        "AveragePledge": 4961.297078189296
+    }, 
+    "Academic": {
+        "Count": 5, 
+        "TotalPledges": 27726.11, 
+        "AveragePledge": 5545.222
+    }, 
+    "Footwear": {
+        "Count": 5, 
+        "TotalPledges": 111705.0, 
+        "AveragePledge": 22341.0
+    }, 
+    "World Music": {
+        "Count": 1085, 
+        "TotalPledges": 4081054.8099999987, 
+        "AveragePledge": 3761.3408387096847
+    }, 
+    "Action": {
+        "Count": 5, 
+        "TotalPledges": 173094.8, 
+        "AveragePledge": 34618.96
+    }, 
+    "Sculpture": {
+        "Count": 887, 
+        "TotalPledges": 2375416.960000001, 
+        "AveragePledge": 2678.034904171369
+    }, 
+    "Software": {
+        "Count": 781, 
+        "TotalPledges": 4258478.299999999, 
+        "AveragePledge": 5452.597055057616
+    }, 
+    "Festivals": {
+        "Count": 12, 
+        "TotalPledges": 226549.7, 
+        "AveragePledge": 18879.141666666666
+    }, 
+    "Chiptune": {
+        "Count": 9, 
+        "TotalPledges": 114074.04000000001, 
+        "AveragePledge": 12674.893333333333
+    }, 
+    "Family": {
+        "Count": 6, 
+        "TotalPledges": 29417.0, 
+        "AveragePledge": 4902.833333333333
+    }, 
+    "Gaming Hardware": {
+        "Count": 4, 
+        "TotalPledges": 8644835.85, 
+        "AveragePledge": 2161208.9625
+    }, 
+    "Playing Cards": {
+        "Count": 12, 
+        "TotalPledges": 61192.079999999994, 
+        "AveragePledge": 5099.34
+    }, 
+    "Gadgets": {
+        "Count": 27, 
+        "TotalPledges": 3759430.4200000004, 
+        "AveragePledge": 139238.16370370373
+    }, 
+    "Couture": {
+        "Count": 7, 
+        "TotalPledges": 21769.0, 
+        "AveragePledge": 3109.8571428571427
+    }, 
+    "Spaces": {
+        "Count": 14, 
+        "TotalPledges": 771551.33, 
+        "AveragePledge": 55110.809285714284
+    }, 
+    "Periodical": {
+        "Count": 830, 
+        "TotalPledges": 4147801.2799999965, 
+        "AveragePledge": 4997.350939759034
+    }, 
+    "Blues": {
+        "Count": 15, 
+        "TotalPledges": 196808.52999999997, 
+        "AveragePledge": 13120.568666666664
+    }, 
+    "Publishing": {
+        "Count": 2150, 
+        "TotalPledges": 5909514.019999998, 
+        "AveragePledge": 2748.6111720930176
+    }, 
+    "Classical Music": {
+        "Count": 1431, 
+        "TotalPledges": 6028673.179999999, 
+        "AveragePledge": 4212.90928022362
+    }, 
+    "Animation": {
+        "Count": 1306, 
+        "TotalPledges": 12261352.889999999, 
+        "AveragePledge": 9388.478476263397
+    }, 
+    "Romance": {
+        "Count": 6, 
+        "TotalPledges": 38282.0, 
+        "AveragePledge": 6380.333333333333
+    }, 
+    "Flight": {
+        "Count": 22, 
+        "TotalPledges": 4481427.620000001, 
+        "AveragePledge": 203701.2554545455
+    }, 
+    "Shorts": {
+        "Count": 9408, 
+        "TotalPledges": 28719068.999999996, 
+        "AveragePledge": 3052.6221301020596
+    }, 
+    "Food": {
+        "Count": 5755, 
+        "TotalPledges": 35173611.26, 
+        "AveragePledge": 6111.835145091217
+    }, 
+    "Video Games": {
+        "Count": 4548, 
+        "TotalPledges": 114889249.14000003, 
+        "AveragePledge": 25261.488377308644
+    }, 
+    "Community Gardens": {
+        "Count": 5, 
+        "TotalPledges": 16514.3, 
+        "AveragePledge": 3302.8599999999997
+    }, 
+    "Music Videos": {
+        "Count": 6, 
+        "TotalPledges": 34358.6, 
+        "AveragePledge": 5726.433333333333
+    }, 
+    "Interactive Design": {
+        "Count": 7, 
+        "TotalPledges": 216403.02, 
+        "AveragePledge": 30914.717142857142
+    }, 
+    "Narrative Film": {
+        "Count": 4102, 
+        "TotalPledges": 39353855.42999997, 
+        "AveragePledge": 9593.821411506557
+    }, 
+    "Ceramics": {
+        "Count": 8, 
+        "TotalPledges": 59044.36, 
+        "AveragePledge": 7380.545
+    }, 
+    "Faith": {
+        "Count": 16, 
+        "TotalPledges": 77974.44, 
+        "AveragePledge": 4873.4025
+    }, 
+    "Television": {
+        "Count": 6, 
+        "TotalPledges": 124989.1, 
+        "AveragePledge": 20831.516666666666
+    }, 
+    "Cookbooks": {
+        "Count": 4, 
+        "TotalPledges": 144558.11, 
+        "AveragePledge": 36139.5275
+    }, 
+    "Journalism": {
+        "Count": 942, 
+        "TotalPledges": 3285192.770000001, 
+        "AveragePledge": 3487.4657855626397
+    }, 
+    "Video Art": {
+        "Count": 1, 
+        "TotalPledges": 5080.0, 
+        "AveragePledge": 5080.0
+    }, 
+    "Games": {
+        "Count": 1123, 
+        "TotalPledges": 17371888.229999997, 
+        "AveragePledge": 15469.179189670509
+    }, 
+    "Apparel": {
+        "Count": 19, 
+        "TotalPledges": 1231939.7400000002, 
+        "AveragePledge": 64838.93368421054
+    }, 
+    "Documentary": {
+        "Count": 9314, 
+        "TotalPledges": 74752410.52000003, 
+        "AveragePledge": 8025.811737169867
+    }, 
+    "Musical": {
+        "Count": 14, 
+        "TotalPledges": 354142.96, 
+        "AveragePledge": 25295.925714285713
+    }, 
+    "Hip-Hop": {
+        "Count": 1681, 
+        "TotalPledges": 1631032.6899999997, 
+        "AveragePledge": 970.2752468768573
+    }, 
+    "Wearables": {
+        "Count": 13, 
+        "TotalPledges": 3299432.79, 
+        "AveragePledge": 253802.5223076923
+    }, 
+    "Radio & Podcast": {
+        "Count": 338, 
+        "TotalPledges": 3921574.000000001, 
+        "AveragePledge": 11602.289940828397
+    }, 
+    "Workshops": {
+        "Count": 6, 
+        "TotalPledges": 16484.0, 
+        "AveragePledge": 2747.3333333333335
+    }, 
+    "Pop": {
+        "Count": 2003, 
+        "TotalPledges": 7690180.04000001, 
+        "AveragePledge": 3839.331023464809
+    }, 
+    "Hardware": {
+        "Count": 1333, 
+        "TotalPledges": 48873830.09999998, 
+        "AveragePledge": 36664.538709677414
+    }, 
+    "Fantasy": {
+        "Count": 10, 
+        "TotalPledges": 831485.78, 
+        "AveragePledge": 83148.57800000001
+    }, 
+    "Nonfiction": {
+        "Count": 3944, 
+        "TotalPledges": 10618401.789999994, 
+        "AveragePledge": 2692.292543103444
+    }, 
+    "Tabletop Games": {
+        "Count": 3718, 
+        "TotalPledges": 103709607.3299999, 
+        "AveragePledge": 27893.9234346422
+    }, 
+    "Textiles": {
+        "Count": 2, 
+        "TotalPledges": 3511.0, 
+        "AveragePledge": 1755.5
+    }, 
+    "Live Games": {
+        "Count": 5, 
+        "TotalPledges": 28240.989999999998, 
+        "AveragePledge": 5648.197999999999
+    }
+}
