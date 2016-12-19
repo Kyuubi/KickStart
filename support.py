@@ -1,18 +1,7 @@
 import json
 import os
 from ConfigParser import ConfigParser
-
-
-def read_json_from_file(filepath):
-    with open(filepath, 'rb') as fp:
-        dic = json.load(fp)
-    return dic
-
-
-def write_json_to_file(filepath, data_dict):
-    with open(filepath, 'w') as fp:
-        json.dump(data_dict, fp, indent=4)
-
+import sys
 
 def get_environ(key):
     if key in os.environ:
